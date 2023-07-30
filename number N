@@ -1,0 +1,250 @@
+            int temporary = 0;
+            int N = 0;
+            int count = 0;
+            int thousand = 1000;
+
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N ; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            N++;
+            temporary += N;
+            thousand -= N;
+            for (temporary = 100 - N; temporary < thousand; temporary += N)
+            {
+                count++;
+            }
+            temporary = 0;
+            thousand = 1000;
+            Console.WriteLine("кол-во кратных числа N = " + count);
+            Console.ReadKey();
